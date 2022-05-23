@@ -56,6 +56,10 @@ public class Guru99BasicAutomation {
 		}
 		
 		
+		/*
+		 * Test
+		 */
+		
 		driver.findElement(By.name("name")).sendKeys("Chandan Kumar");
 		
 		driver.findElements(By.name("rad1")).get(0).click();
